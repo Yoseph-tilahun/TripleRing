@@ -1,4 +1,5 @@
 Pod::Spec.new do |s|
+    source 'https://github.com/CocoaPods/Specs.git'    
     s.name         = 'ThreeRingControl'
     s.version      = '1.0.0'
     s.summary      = 'A short description of ThreeRingControl.'
