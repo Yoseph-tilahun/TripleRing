@@ -13,4 +13,3 @@
     s.source_files  = "ThreeRingControl", "ThreeRingControl/**/*.{h,m,swift}"
     s.exclude_files = "Classes/Exclude"
     s.resource  = "ThreeRingControl/*.mp3"
-end
