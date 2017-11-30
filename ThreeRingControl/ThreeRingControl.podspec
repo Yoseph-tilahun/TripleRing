@@ -6,7 +6,7 @@
     s.homepage     = "http://EXAMPLE/ThreeRingControl"
     s.license      = "MIT"
     s.description  = "The three-ring is a completely cuse."
-    s.author        = "ytilahun" => "ytilahun@paypal.com"
+    s.author        = "ytilahun@paypal.com"
     s.homepage      = "http:github.com/Yoseph-tilahun" 
     s.platform     = :ios, "11.0"
     s.source       = { :git => "https://github.com/Yoseph-tilahun/TripleRing.git", :tag => "1.0.0" }
