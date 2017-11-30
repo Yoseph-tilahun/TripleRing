@@ -18,6 +18,7 @@
 		BC8077291FCF89000058908D /* CircularGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC8077231FCF88FF0058908D /* CircularGradient.swift */; };
 		BC80772C1FCF894A0058908D /* coin07.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC80772A1FCF890D0058908D /* coin07.mp3 */; };
 		BC80772D1FCF894D0058908D /* winning.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC80772B1FCF890D0058908D /* winning.mp3 */; };
+		BCA8DCD71FD09B7D00827658 /* ThreeRingTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCA8DCD61FD09B7D00827658 /* ThreeRingTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		BC8077231FCF88FF0058908D /* CircularGradient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularGradient.swift; sourceTree = "<group>"; };
 		BC80772A1FCF890D0058908D /* coin07.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = coin07.mp3; sourceTree = "<group>"; };
 		BC80772B1FCF890D0058908D /* winning.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = winning.mp3; sourceTree = "<group>"; };
+		BCA8DCD61FD09B7D00827658 /* ThreeRingTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThreeRingTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 		BC8077111FCF88B90058908D /* ThreeRingControlTests */ = {
 			isa = PBXGroup;
 			children = (
+				BCA8DCD61FD09B7D00827658 /* ThreeRingTest.swift */,
 				BC8077121FCF88B90058908D /* ThreeRingControlTests.swift */,
 				BC8077141FCF88B90058908D /* Info.plist */,
 			);
@@ -236,6 +239,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BCA8DCD71FD09B7D00827658 /* ThreeRingTest.swift in Sources */,
 				BC8077131FCF88B90058908D /* ThreeRingControlTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
