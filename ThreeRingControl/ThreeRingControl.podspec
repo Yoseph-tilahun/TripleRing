@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
 
     s.homepage     = "http://EXAMPLE/ThreeRingControl"
     s.license      = "MIT"
-    s.description  = "The three-ring is a completely cuse."
+    s.description  = "The three-ring is used to populate the activity ring with colors."
     s.author        = "ytilahun@paypal.com"
     s.homepage      = "http:github.com/Yoseph-tilahun" 
     s.platform     = :ios, "11.0"
